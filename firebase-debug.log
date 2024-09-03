@@ -1,0 +1,21 @@
+[debug] [2024-09-03T12:52:04.320Z] ----------------------------------------------------------------------
+[debug] [2024-09-03T12:52:04.322Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ludo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-09-03T12:52:04.323Z] CLI Version:   13.16.0
+[debug] [2024-09-03T12:52:04.323Z] Platform:      win32
+[debug] [2024-09-03T12:52:04.323Z] Node Version:  v20.11.1
+[debug] [2024-09-03T12:52:04.323Z] Time:          Tue Sep 03 2024 14:52:04 GMT+0200 (heure d’été d’Europe centrale)
+[debug] [2024-09-03T12:52:04.323Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-03T12:52:04.327Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-03T12:52:04.328Z] > authorizing via signed-in user (lu.favory@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Ludo\Documents\mes_projets\simple-chat
+
