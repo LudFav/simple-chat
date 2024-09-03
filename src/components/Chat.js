@@ -40,7 +40,7 @@ export const Chat = (props) => {
 
                 <div className="message" key={message.id}>
                     {message.text}<br />
-                    <div className="user">{message.user} <span>{format(message.createdAt.toDate())}</span></div>
+                    <div className="user">{message.user} <span>{/*format(message.createdAt.toDate())*/}</span></div>
                 </div>
 
             )
